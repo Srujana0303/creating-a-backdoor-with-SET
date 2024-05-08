@@ -60,11 +60,17 @@ In windows IE, on giving the url http://192.168.1.2, the fake Google page is dis
 SET logs the information regarding the Google credentials:
 username and password 
 
+
 ![image](https://github.com/Srujana0303/creating-a-backdoor-with-SET/assets/132996836/feb47ff8-1fd5-4685-bd49-958c92c3e77c)
+
 
 SET logs the information in the xml file under /root/.set directory:
 
+
 ![image](https://github.com/Srujana0303/creating-a-backdoor-with-SET/assets/132996836/4c394e29-786b-44d7-9773-77b555af9b95)
 
+
 ## RESULT:
+
+
 The Social Engineering Toolkit (SET) is used to create backdoor is  examined successfully
